@@ -3,7 +3,7 @@
 #
 # Link:    https://github.com/tiepologian/thumbS3
 # Author:  Gianluca Tiepolo
-# Version: 0.1.2
+# Version: 0.1.3
 # Description: Python module and command-line tool for creating thumbs on Amazon S3
 #
 

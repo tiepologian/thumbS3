@@ -2,5 +2,4 @@
 README.md
 setup.cfg
 setup.py
-thumbS3/__init__.py
-thumbS3/thumbs3.py
+thumbs3.py

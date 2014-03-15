@@ -22,7 +22,7 @@ sudo pip install thumbS3
 
 ### Module Usage:
 ```
-from thumbS3.thumbs3 import ThumbS3
+from thumbs3 import ThumbS3
 
 th = ThumbS3("my_aws_key", "my_aws_secret", "http://s3-eu-west-1.amazonaws.com/my_bucket_name", 150, 150)
 th.setDestinationFolder("/thumbs")
