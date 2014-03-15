@@ -15,6 +15,7 @@ var
 sdist
 develop-eggs
 .installed.cfg
+.pypirc
 lib
 lib64
 __pycache__
