@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from thumbs3 import ThumbS3
+from thumbS3.thumbs3 import ThumbS3
 
 images = ["photo1.jpg", "photo2.jpg", "photo3.jpg"]
 

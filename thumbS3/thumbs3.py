@@ -3,7 +3,7 @@
 #
 # Link:    https://github.com/tiepologian/thumbS3
 # Author:  Gianluca Tiepolo
-# Version: 0.1
+# Version: 0.1.2
 # Description: Python module and command-line tool for creating thumbs on Amazon S3
 #
 
@@ -69,7 +69,7 @@ def main():
     parser.add_argument("--suffix", help="Thumbs filename suffix", default="_thumb")
     parser.add_argument("--width", help="Thumb width", type=int, default=150)
     parser.add_argument("--height", help="Thumb height", type=int, default=150)
-    parser.add_argument("-v", "--verbose", help="increase output verbosity",
+    parser.add_argument("-v", "--verbose", help="Increase output verbosity",
                     action="store_true")
     args = parser.parse_args()
 

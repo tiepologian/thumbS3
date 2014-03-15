@@ -48,7 +48,7 @@ usage: thumbs3.py [-h] [-k KEY] [-s SECRET] [-f FILENAME] [--url URL]
 
 thumbS3 command-line tool for creating thumbs on Amazon S3
 
-optional arguments:
+Arguments:
   -h, --help            show this help message and exit
   -k KEY, --key KEY     Amazon AWS access key
   -s SECRET, --secret SECRET
